@@ -1,6 +1,6 @@
-# ApiGames
+# Api Games
 
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLS-nMCdbA7tIgheRrWSG6ThGoCfixfEjPLilsLa6ByQ_v6iWfXkuD-dh1N5m-2NBxPCo&usqp=CAU"> Api Games
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/25/25428.png"> Api Games
 
 
 <div align="center">
